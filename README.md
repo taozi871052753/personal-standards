@@ -12,7 +12,9 @@
 
 把具体规范的文件链接发给 AI，并说明要执行的任务。例如：
 
-> 请读取本仓库的 GITHUB_STARS_RULES.md，按其中规范增量整理我的 GitHub Stars。执行后核验并报告结果。
+```text
+请读取 https://github.com/taozi871052753/personal-standards/blob/main/GITHUB_STARS_RULES.md，按规范增量整理我的 GitHub Stars，完成后核验并报告结果。
+```
 
 AI 应先读取规范全文和当前实际数据，再执行用户授权的操作；无法读取规范或缺少操作权限时应明确说明。
 
